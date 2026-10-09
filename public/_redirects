@@ -1,0 +1,2 @@
+/* Netlify: send every URL to index.html so React Router works on refresh */
+/*  /index.html  200
